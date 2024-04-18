@@ -86,6 +86,7 @@ This program was made and tested using Ubuntu 14.04.3 LTS and Python 3.4.3 So we
 * [Github @wesacoke](https://github.com/wesacoke)
 
 **Ezra Nobrega**
+
 **Justin Majetich**
 
 ## Acknowledgments
