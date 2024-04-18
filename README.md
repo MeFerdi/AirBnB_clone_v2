@@ -76,14 +76,14 @@ This program was made and tested using Ubuntu 14.04.3 LTS and Python 3.4.3 So we
 
 ## AUTHORS
 
-**Frdynand Odhiambo**
+**Ferdynand Odhiambo**
 
-* [Github @luismvargasg](https://github.com/MeFerdi)
-* [LinkedIn - Luis Miguel Vargas](https://www.linkedin.com/in/ferdynand-odhiambo/)
+* [Github @MeFerdi](https://github.com/MeFerdi)
+* [LinkedIn - Ferdynand Odhiambo](https://www.linkedin.com/in/ferdynand-odhiambo/)
 
 **Emmanuel Wesa**
 
-* [Github @mecomonteshbtn](https://github.com/wesacoke)
+* [Github @wesacoke](https://github.com/wesacoke)
 
 **Ezra Nobrega**
 **Justin Majetich**
